@@ -24,4 +24,7 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 import 'cypress-file-upload';
-
+import addContext from 'mochawesome/addContext';
+Cypress.Commands.add('addContext', (context) => {
+  cy.once('test:after:run', (test) => addContext({ test }, context))
+});

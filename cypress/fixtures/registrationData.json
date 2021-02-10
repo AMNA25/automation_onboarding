@@ -1,0 +1,19 @@
+{
+    "_comments": "Add comments in .json files in the form key-value pair",
+    
+    "machine_IP_Address": "192.168.3.19",
+    "userID": "super-admin",
+    "password": "a10rocks",
+    "clusterName": "abc",
+    "deviceName1": "def",
+    "thvalue": "192.168.3.35",
+    "thvalue1": "192.168.3.34",
+    "thunderHostname1": "ghi",
+    "adminUsername1": "jkl",
+    "adminPassword1": "12345", 
+    "deviceName2": "fed",
+    "thunderHostname2": "ihg",
+    "adminUsername2": "lkj",
+    "adminPassword2": "12345",
+    "ha": true
+}

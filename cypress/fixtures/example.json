@@ -4,7 +4,5 @@
   "width": 1660,
   "height": 1080,
   "stringLength": 5,
-  "email": "hello@cypress.io",
-  "body": "Fixtures are a great way to mock data for responses to routes",
   "website": "https://192.168.3.19/hcapps/b2123ab4-e778-11ea-aff9-46ab2e33bd32/ssli_5.2.0-v4.1/?user_id=super-admin&api_ep=https://192.168.3.19/api/v2&provider=root&tenant=ssli&tenantUUID=a1605e66-e779-11ea-aff9-46ab2e33bd32&ts=1598962307519&username=super-admin&password=a10rocks"
 }
